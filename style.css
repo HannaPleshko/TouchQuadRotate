@@ -56,12 +56,4 @@ body {
     transform: translateY(calc((1 - var(--items-progress)) * 50vh)) rotate(calc((90deg * var(--progress-3))));
 }
 
-.task__text {
-    font-size: 1.5vmax;
-
-    position: absolute;
-    top: 3vmax;
-    left: 5vmax;
-    color: red;
-}
 
