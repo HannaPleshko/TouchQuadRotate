@@ -19,5 +19,8 @@
   "homepage": "https://github.com/HannaPleshko/TouchQuadRotate#readme",
   "dependencies": {
     "prettier": "^3.0.1"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3"
   }
 }
